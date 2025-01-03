@@ -16,6 +16,7 @@ examples/*/.env
 examples/*/.env.local
 examples/*/.DS_Store
 examples
+examples/next-app
 examples/next-app/node_modules
 examples/next-app/.next
 examples/next-app/.env
