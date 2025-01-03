@@ -1,0 +1,23 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.local
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.tsbuildinfo
+
+# Examples - ignore only specific patterns
+examples/*/node_modules
+examples/*/.next
+examples/*/.env
+examples/*/.env.local
+examples/*/.DS_Store
+examples
+examples/next-app/node_modules
+examples/next-app/.next
+examples/next-app/.env
+examples/next-app/.env.local
+examples/next-app/.DS_Store
